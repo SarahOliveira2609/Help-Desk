@@ -1,2 +1,2 @@
 # Help-Desk
- Formúlario de Help-Desk que realizei no Curso Técnico de Infotmática
+ Durante meu período na ETEC, enquanto cursava o Técnico em Informática, desenvolvi um formulário em PHP com o objetivo de facilitar o envio de queixas para o Help Desk. Este formulário foi criado para tornar o processo mais eficiente, permitindo que os usuários realizem suas queixas de maneira simples e rápida, ajudando a equipe de suporte a resolver as questões com agilidade
